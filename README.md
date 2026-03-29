@@ -127,6 +127,3 @@ The application will be a web-based system (with potential extension to mobile) 
 - Prepare user guide (how to use the system).  
 
 ---
-
-# Deadline  
-March 4, 2024, 23:59  

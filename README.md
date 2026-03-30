@@ -11,10 +11,10 @@ Software Engineering Project Phase 1
 - Email: [oprofka23@epoka.edu.al]  
 
 ## Team Members:  
-1. Kristina Meta - GitHub: [Username] - Email: [kmeta23@epoka.edu.al]  
-2. Franko Korra - GitHub: [Username] - Email: [fkorra23@epoka.edu.al]  
-3. Henda Maloku - GitHub: [Username] - Email: [hmaloku23@epoka.edu.al]  
-4. Armilda Hasa - GitHub: [Username] - Email: [ahasa23@epoka.edu.al]  
+1. Kristina Meta - GitHub: [kristinameta28] - Email: [kmeta23@epoka.edu.al]  
+2. Franko Korra - GitHub: [fkorra23-888] - Email: [fkorra23@epoka.edu.al]  
+3. Henda Maloku - GitHub: [hendamaloku] - Email: [hmaloku23@epoka.edu.al]  
+4. Armilda Hasa - GitHub: [Ahasa18] - Email: [ahasa23@epoka.edu.al]  
 
 ---
 

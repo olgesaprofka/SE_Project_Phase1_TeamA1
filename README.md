@@ -1,4 +1,4 @@
-# SE_Project_Phase1_Team1
+# SE_Project_Phase1_TeamA1
 Software Engineering Project Phase 1
 
 # Team Information  
